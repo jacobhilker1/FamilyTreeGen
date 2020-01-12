@@ -1,0 +1,7 @@
+* PendragonFamilyTree
+This is a CLI tool for creating a family tree using the Pendragon rules. Made in python. I received permission from Chaosium to release this, and all copyright goes to Chaosium.
+** Requirements
+   - Python 3  
+** Usage
+   You will need to go into the directory where you saved the code, then use "python3 Generator.py". in the src directory. follow the on screen prompts after that.
+ 
